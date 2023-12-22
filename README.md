@@ -19,6 +19,14 @@ El repositorio se organiza de la siguiente manera:
 - `Jupyter Notebooks`: Contienen ejemplos prácticos y análisis detallados de los datos y modelos.
 - `Scripts de Desarrollo`: Scripts utilizados durante el desarrollo del proyecto, que incluyen análisis exploratorios y pruebas de algoritmos.
 
+## Requisitos
+
+Para ejecutar este proyecto, es necesario instalar varias librerías de Python. Puedes instalar todas las dependencias necesarias ejecutando el siguiente comando en tu terminal:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Cómo Usar
 
 Para utilizar este código en tu propio proyecto o investigación, sigue estos pasos:
